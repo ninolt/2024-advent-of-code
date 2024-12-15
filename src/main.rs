@@ -3,8 +3,9 @@
 // mod day_03;
 // mod day_04;
 // mod day_09;
-mod day_10;
+// mod day_10;
 //mod day_11;
+mod day_14;
 
 fn main() {
     // println!("Day 1 : First star result");
@@ -27,10 +28,14 @@ fn main() {
     //day_09::second_star::main();
     //println!("Day 10 : First star result");
     //day_10::first_star::main();
-    println!("Day 10 : Second star result");
-    day_10::second_star::main();
+    //println!("Day 10 : Second star result");
+    //day_10::second_star::main();
     //println!("Day 11 : First star result");
     //day_11::first_star::main();
     //println!("Day 11 : Second star result");
     //day_11::second_star::main();
+    //println!("Day 14 : First star result");
+    //day_14::first_star::main();
+    println!("Day 14 : Second star result");
+    day_14::second_star::main();
 }
